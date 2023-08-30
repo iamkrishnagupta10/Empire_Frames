@@ -1,0 +1,19 @@
+{
+  "name": "empire_frames",
+  "version": "1.0.0",
+  "description": "Streamsync is an open-source framework for creating data apps. Build user interfaces using a visual editor; write the backend code in Python.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
